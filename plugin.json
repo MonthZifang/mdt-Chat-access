@@ -1,0 +1,7 @@
+{
+  "name": "mdt-chat-access",
+  "author": "monthzifang",
+  "main": "com.mdt.chat.ChatAccessPlugin",
+  "description": "将聊天写入全局玩家聊天信息，也可在玩家进服时以参数形式发送包含等级等信息的聊天内容，并把全局聊天记录控制在最近 200 条。",
+  "version": "v1"
+}
